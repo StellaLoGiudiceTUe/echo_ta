@@ -8,11 +8,11 @@
 Team effectiveness means how well a team achieves its intended goals and maintains the capacity to perform in the future.  
 According to Kozlowski & Ilgen (2006), a truly effective team:
 
-•Performs well ([[achieve goals\|achieve goals]], [[deliver quality output\|deliver quality output]])
+•Performs well ([[Achieve goals\|Achieve goals]], [[Deliver quality output\|Deliver quality output]])
 
-•Maintains viability (members want to [[keep working together\|keep working together]])
+•Maintains viability (members want to [[Keep working together\|Keep working together]])
 
-•Supports member growth ([[learning and development\|learning and development]], [[satisfaction\|satisfaction]])
+•Supports member growth ([[Learning and development\|Learning and development]], [[Satisfaction\|Satisfaction]])
 
 
 So when do we talk about effective collaboration? When you have all three!
