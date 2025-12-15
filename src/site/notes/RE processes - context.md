@@ -7,6 +7,6 @@
 The RE process comprising five main activities, which are:
 * [[Requirements elicitation\|Requirements elicitation]]
 * [[Requirements analysis and negotiation\|Requirements analysis and negotiation]]
-* [[Requirements documentation\|Requirements documentation]]
-* [[Requirements validation\|Requirements validation]]
+* [[Requirements specification\|Requirements specification]]
+* [[Requirements verification and validation\|Requirements verification and validation]]
 * [[Requirements management\|Requirements management]]

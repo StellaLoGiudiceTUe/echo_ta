@@ -5,8 +5,8 @@
 # Transactive memory system
 #level2 
 
-| **Transactive memory system (TMS)** | A collective awareness of “who knows what” within the team that facilitates information retrieval and specialization. | Lewis (2003); Kozlowski & Ilgen (2006) |
-| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+A collective awareness of “who knows what” within the team that facilitates information retrieval and specialization.
+
 Intended as a [[Cognitive emergent states\|Cognitive emergent states]].
 It also connects to the work of Daniela Damian in terms of awareness: 
 [[Awareness\|Awareness]] is particularly important in requirements engineering because:

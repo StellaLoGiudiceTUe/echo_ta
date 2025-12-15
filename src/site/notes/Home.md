@@ -41,8 +41,15 @@
 		- [[Trust\|Trust]] 
 		- [[Cohesion\|Cohesion]] 
 - [[RE processes - context\|RE processes - context]]
-	- [[Requirements documentation\|Requirements documentation]] 
+	- [[Requirements specification\|Requirements specification]] 
 	- [[Requirements management\|Requirements management]] 
-	- [[Requirements validation\|Requirements validation]] 
+	- [[Requirements verification and validation\|Requirements verification and validation]] 
 	- [[Requirements elicitation\|Requirements elicitation]] 
 	- [[Requirements analysis and negotiation\|Requirements analysis and negotiation]]
+
+# Framework
+![Pasted image 20251215163506.png](/img/user/Pasted%20image%2020251215163506.png)
+
+# TA leading questions:
+1. Is team effectiveness perceived just as good performance, or is it relevant also for engineering teams to extend it to a all-round question of team performance, well-being and viability?
+2. Are interpersonal processes the true underpinning of effective teams in engineering teams? And how do teams transition from effective to non-effective team states? What are the processes that positively influence the transition to effectiveness? ==*Something like this*==
