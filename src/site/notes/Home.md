@@ -41,7 +41,7 @@
 		- [[Trust\|Trust]] 
 		- [[Cohesion\|Cohesion]] 
 - [[RE activities - context\|RE activities - context]]
-	- [[Communicating requirements\|Communicating requirements]] 
+	- [[Communicating requirements\|Communicating requirements]]
 	- [[Evolving requirements\|Evolving requirements]] 
 	- [[Agreeing requirements\|Agreeing requirements]] 
 	- [[Eliciting requirements\|Eliciting requirements]] 
