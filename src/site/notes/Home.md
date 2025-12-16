@@ -40,16 +40,16 @@
 	- [[Affective emergent state\|Affective emergent state]] 
 		- [[Trust\|Trust]] 
 		- [[Cohesion\|Cohesion]] 
-- [[RE processes - context\|RE processes - context]]
-	- [[Requirements specification\|Requirements specification]] 
-	- [[Requirements management\|Requirements management]] 
-	- [[Requirements verification and validation\|Requirements verification and validation]] 
-	- [[Requirements elicitation\|Requirements elicitation]] 
-	- [[Requirements analysis and negotiation\|Requirements analysis and negotiation]]
+- [[RE activities - context\|RE activities - context]]
+	- [[Communicating requirements\|Communicating requirements]] 
+	- [[Evolving requirements\|Evolving requirements]] 
+	- [[Agreeing requirements\|Agreeing requirements]] 
+	- [[Eliciting requirements\|Eliciting requirements]] 
+	- [[Modelling and analysis requirements\|Modelling and analysis requirements]]
 
 # Framework
 ![Pasted image 20251215163506.png](/img/user/Pasted%20image%2020251215163506.png)
 
-# TA leading questions:
-1. Is team effectiveness perceived just as good performance, or is it relevant also for engineering teams to extend it to a all-round question of team performance, well-being and viability?
-2. Are interpersonal processes the true underpinning of effective teams in engineering teams? And how do teams transition from effective to non-effective team states? What are the processes that positively influence the transition to effectiveness? ==*Something like this*==
+# TA leading hypotheses:
+1. Engineering team members define **project success** as *high-quality (according to specification) deliverables built within time, money and resources constraints* and they value team viability and well-being as indicators of **team success**.
+2. Interpersonal processes strongly influence the success of projects and teams. **Interpersonal processes** are key for the *transition* from an effective (emergent) state to a non-effective state.  ==*Something like this*==
